@@ -1,4 +1,4 @@
-## Hello! I'm Christophe. I am currently undergoing web development training at Becode and have previously completed an IBM Data Analyst certification.
+Hello! I'm Christophe. I am currently undergoing web development training at Becode and have previously completed an IBM Data Analyst certification.
 
 #### Skills
 - Languages & Frameworks: JavaScript, TypeScript, React, HTML, CSS, PHP, Laravel, Python
