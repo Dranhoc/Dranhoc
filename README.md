@@ -1,28 +1,27 @@
-### Hello! I'm Christophe. I am currently undergoing web development training at Becode and have previously completed an IBM Data Analyst certification.
+## Hello! I'm Christophe. I am currently undergoing web development training at Becode and have previously completed an IBM Data Analyst certification.
 
-##### Skills
+#### Skills
+- Languages & Frameworks: JavaScript, TypeScript, React, HTML, CSS, PHP, Laravel, Python
+- Tools & Libraries: Bootstrap, Tailwind
+- Databases: Access, SQL
 
-    Languages & Frameworks: JavaScript, TypeScript, React, HTML, CSS, PHP, Laravel, Python
-    Tools & Libraries: Bootstrap, Tailwind
-    Databases: Access, SQL
+### Projects
 
-#### Projects
+#### One of my notable projects is a comprehensive event/catering management program developed in Access. This project includes:
 
-##### One of my notable projects is a comprehensive event/catering management program developed in Access. This project includes:
+- Client, employee, and supplier data management
+- Custom quote generation
+- Expense tracking
+- Automated supplier orders
+- Key business statistics
 
-    Client, employee, and supplier data management
-    Custom quote generation
-    Expense tracking
-    Automated supplier orders
-    Key business statistics
+#### Additionally, during my training at Becode, I have worked on various group and solo projects, including:
 
-##### Additionally, during my training at Becode, I have worked on various group and solo projects, including:
-
-    Creating showcase websites with provided designs
-    Developing an event calendar site
-    Building a video game reference site
-    Designing a dark kitchen site
-    Crafting a hiking sharing site
+- Creating showcase websites with provided designs
+- Developing an event calendar site
+- Building a video game reference site
+- Designing a dark kitchen site
+- Crafting a hiking sharing site
 
 ### Interests
 I enjoy automation and optimization and I'm passionate about web and software development, with an interest in UX/UI Design.
