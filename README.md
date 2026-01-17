@@ -1,4 +1,4 @@
-# Hi, I’m Slenderdev 👋
+# Hi, I’m Dranhoc 👋
 
 I’m a **front-end developer** currently expanding into **full-stack development**.
 
