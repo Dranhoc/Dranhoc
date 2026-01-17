@@ -12,7 +12,6 @@ I’m following a full-stack training at **Technifutur (Belgium)**.
 - Learning back-end fundamentals with **Node.js** and **Express**
 - Designing and consuming **REST APIs**
 - Working with **PostgreSQL**
-- Exploring **Angular** as part of a broader front-end ecosystem
 
 ---
 ### _Technologies I use daily_
