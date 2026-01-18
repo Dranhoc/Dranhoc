@@ -5,15 +5,6 @@ I’m a **front-end developer** currently expanding into **full-stack developmen
 I’m following a full-stack training at **Technifutur (Belgium)**.
 
 ---
-
-## 🧠 What I’m working on
-
-- Deepening my front-end skills with **Angular**
-- Learning back-end fundamentals with **Node.js** and **Express**
-- Designing and consuming **REST APIs**
-- Working with **PostgreSQL**
-
----
 ### _Technologies I use daily_
 </div>
 	<code><img width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/> Vue.js </code>
