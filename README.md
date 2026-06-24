@@ -2,7 +2,7 @@
 
 ### Front-end developer growing into full-stack — Liège, Belgium 🇧🇪
 
-After **15 years leading a team and running a retail store** — managing the unexpected, deciding under pressure, and always aiming for concrete results — I brought that same pragmatism to web development. I work from polished **front-end** (React, Vue, TypeScript) toward **full-stack** (Node.js, NestJS, PostgreSQL).
+After **15 years leading a team and running a retail store** — managing the unexpected, deciding under pressure, and always aiming for concrete results — I brought that same pragmatism to web development. I work from polished **front-end** (React, Vue, Angular) toward **full-stack** (Node.js, Express, NestJS, PostgreSQL).
 
 What drives me: turning a real business need into a **reliable product people actually use**.
 
@@ -24,11 +24,11 @@ A full-stack platform where organizers list cultural events and sell **discounte
 
 ### 💼 [WeShre — Landing pages](https://github.com/Dranhoc/WeShre_landing-pages) — Web app & Studio sites *(professional)*
 Monorepo built during my role as front-end developer at WeShre, containing two production websites:
-- The **WeShre app** landing site — `React` · `TypeScript` · `Vite`
+- The **WeShre app** landing site and app — `React` · `TypeScript` · `Vite`
 - The **WeShre Studio** website — `Vue 3` · `TypeScript`
 
 ### 🎨 [Epekta · Magvice](https://github.com/Dranhoc/Epekta-Magvice) — Agency showcase site *(internship)*
-A showcase website built from a **Figma design** during my internship at a creative web agency, in collaboration with the design and back-end teams.
+A showcase website built from a **Figma design** during my internship at a creative web agency.
 - `Laravel Blade` · `TypeScript` · `Tailwind CSS` · `Vite`
 
 ### 🧑‍💻 [Portfolio — slenderdev.be](https://github.com/Dranhoc/Portfolio-FrontEnd_Slenderdev) — Personal portfolio
